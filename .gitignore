@@ -1,0 +1,7 @@
+# 项目排除路径
+/target/*
+/.idea/*
+/src/test/*
+
+# 文件排除
+.gitignore
